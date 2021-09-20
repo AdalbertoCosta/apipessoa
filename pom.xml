@@ -14,7 +14,7 @@
 	<name>apipessoa</name>
 	<description>Projeto API Pessoa</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>14</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
